@@ -16,5 +16,7 @@ The dataset includes attributes such as customer ID, product description, quanti
 **Key Components**
 
 Code: Implementation of K-means and hierarchical clustering algorithms in Python.
+
 Data: The Online Retail Dataset used for clustering analysis.
+
 Documentation: Detailed explanation of the steps performed
